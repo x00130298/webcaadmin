@@ -1,20 +1,45 @@
-@*
- * This template takes a single argument, a String containing a
- * message to display.
- *@
-@(message: String)
+@main("Home"){
+	<div class="container-fluid">
+		<div class="header">
+		<!-- NAV -->
+		</div>
+		<div class="content">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+							<!-- Indicators -->
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li> 
+						</ol> 
 
-@*
- * Call the `main` template with two arguments. The first
- * argument is a `String` with the title of the page, the second
- * argument is an `Html` object containing the body of the page.
- *@
-@main("Welcome to Play") {
+						  <!-- Wrapper for slides -->
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+							  <img src="http://lorempixel.com/output/technics-q-g-1900-500-6.jpg" alt="Chania">
+							  <div class="carousel-caption">
+								<button type="button" class="btn btn-default">Buy Now</button>
+							  </div>
+							</div>
 
-    @*
-     * Get an `Html` object by calling the built-in Play welcome
-     * template and passing a `String` message.
-     *@
-    @play20.welcome(message, style = "Java")
-
-}
+							<div class="item">
+							  <img src="http://lorempixel.com/output/animals-q-g-1900-500-6.jpg" alt="Chania">
+							  <div class="carousel-caption">
+								<button type="button" class="btn btn-default">Buy Now</button>
+							  </div>
+							</div>
+							<!--Left and right controls -->
+							<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	}
