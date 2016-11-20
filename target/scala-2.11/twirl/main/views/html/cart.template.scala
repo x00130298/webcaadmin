@@ -32,7 +32,7 @@ class cart extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Format
 Seq[Any](_display_(/*1.2*/main("Cart")/*1.14*/{_display_(Seq[Any](format.raw/*1.15*/("""
     """),format.raw/*2.5*/("""<div class="text-center">
         <h4>Your cart is empty!</h4>
-        <p>Sounds like a good time to start shopping!</p>
+        <p>Sounds like a good time to <a href="/prod">start shopping</a>!</p>
     </div>
 """)))}),format.raw/*6.2*/("""
 """))
@@ -55,10 +55,10 @@ Seq[Any](_display_(/*1.2*/main("Cart")/*1.14*/{_display_(Seq[Any](format.raw/*1.
 object cart extends cart_Scope0.cart
               /*
                   -- GENERATED --
-                  DATE: Sat Nov 19 20:18:08 GMT 2016
+                  DATE: Sun Nov 20 15:26:36 GMT 2016
                   SOURCE: /home/wdd/webapps/WebCA/app/views/cart.scala.html
-                  HASH: 81499843e6338276ad19520038810b3d02038863
-                  MATRIX: 825->1|845->13|883->14|914->19|1076->152
+                  HASH: e5840754f105f9f9932248aaaf903ba62d50040a
+                  MATRIX: 825->1|845->13|883->14|914->19|1096->172
                   LINES: 32->1|32->1|32->1|33->2|37->6
                   -- GENERATED --
               */
