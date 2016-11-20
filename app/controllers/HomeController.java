@@ -37,4 +37,10 @@ public class HomeController extends Controller {
 	public Result cart(){
 		return ok(cart.render());
 	}
+	public Result account(){
+		return ok(account.render());
+	}
+	public Result checkout(){
+		return ok(checkout.render());
+	}
 }
