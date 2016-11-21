@@ -30,12 +30,12 @@ class contact extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,For
 
 
 Seq[Any](_display_(/*1.2*/main("Contact")/*1.17*/{_display_(Seq[Any](format.raw/*1.18*/("""
-  """),format.raw/*2.3*/("""<h2>Contact Us</h2>
-
+  """),format.raw/*2.3*/("""<div class="text-center">
+  <h2>Contact Us</h2>
     <h4 class="contacthead">Have a problem? Please fill in the online customer service form below for a quick response.</h4>
     <!--<h4 class="contacthead">Is it urgent? Contact us directly:</br></h4><h5> Phone: 01-4578964 </br> Email: info_[BRANDNAME].ie</h5>
     <h5>Available: </br> 09:00 - 17:00	 Monday to Friday </br> 10:00 - 16:00 Saturday & Sunday</h5>  --> 
-				   
+  </div>			   
 <form class="form-horizontal">
 <fieldset>
 
@@ -82,17 +82,19 @@ Seq[Any](_display_(/*1.2*/main("Contact")/*1.17*/{_display_(Seq[Any](format.raw/
 </div>
 
 <!-- Button -->
+<div class="text-center">
 <div class="form-group">
   <label class="col-md-4 control-label" for="singlebutton"></label>
   <div class="col-md-4">
     <button id="singlebutton" name="singlebutton" class="btn btn-success">Submit </button>
   </div>
 </div>
+</div>
 
 </fieldset>
 </form>
 
-""")))}),format.raw/*64.2*/("""
+""")))}),format.raw/*66.2*/("""
 """))
       }
     }
@@ -113,11 +115,11 @@ Seq[Any](_display_(/*1.2*/main("Contact")/*1.17*/{_display_(Seq[Any](format.raw/
 object contact extends contact_Scope0.contact
               /*
                   -- GENERATED --
-                  DATE: Sun Nov 20 15:22:42 GMT 2016
-                  SOURCE: /home/wdd/webapps/WebCA/app/views/contact.scala.html
-                  HASH: a115907c36bfeb15be4fe89403e8847b3bf37ec9
-                  MATRIX: 831->1|854->16|892->17|921->20|2990->2059
-                  LINES: 32->1|32->1|32->1|33->2|95->64
+                  DATE: Mon Nov 21 16:30:48 GMT 2016
+                  SOURCE: /home/wdd/webapps/webca/app/views/contact.scala.html
+                  HASH: dfc4530302503f76cb0dc011c4f1096a90eadd26
+                  MATRIX: 831->1|854->16|892->17|921->20|3057->2126
+                  LINES: 32->1|32->1|32->1|33->2|97->66
                   -- GENERATED --
               */
           

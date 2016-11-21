@@ -55,8 +55,8 @@ Seq[Any](_display_(/*1.2*/main("Cart")/*1.14*/{_display_(Seq[Any](format.raw/*1.
 object cart extends cart_Scope0.cart
               /*
                   -- GENERATED --
-                  DATE: Sun Nov 20 15:26:36 GMT 2016
-                  SOURCE: /home/wdd/webapps/WebCA/app/views/cart.scala.html
+                  DATE: Mon Nov 21 15:21:45 GMT 2016
+                  SOURCE: /home/wdd/webapps/webca/app/views/cart.scala.html
                   HASH: e5840754f105f9f9932248aaaf903ba62d50040a
                   MATRIX: 825->1|845->13|883->14|914->19|1096->172
                   LINES: 32->1|32->1|32->1|33->2|37->6

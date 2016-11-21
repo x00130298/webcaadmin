@@ -30,18 +30,21 @@ class about extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Forma
 
 
 Seq[Any](_display_(/*1.2*/main("About")/*1.15*/{_display_(Seq[Any](format.raw/*1.16*/("""
-       """),format.raw/*2.8*/("""<h2>About Us</h2>
-        <p class="abouthead">[BRAND NAME] is based in South Dublin and is home to the finest street wear money can buy!</p>
+       """),format.raw/*2.8*/("""<div class="text-center">
+       <h2>About Us</h2>
+       </div>
+        <p class="abouthead">SKAS Clothing is based in South Dublin and is home to the finest street wear money can buy!</p>
         <p id="abouttext">Established in 2016, we were formed by 4 entrepreneurs tired of overpriced and bad quality clothing. 
-        After many trials and errors, [BRAND NAME] was born. Our first store in the heart of South Dublin, Tallaght, comprised mainly of T-Shirts 
+        After many trials and errors, SKAS Clothing was born. Our first store in the heart of South Dublin, Tallaght, comprised mainly of T-Shirts 
         and Hooded Sweatshirts. Due to our phenomenal success and praise we have since branched out to supply a wide range of high quality clothing 
         such as T-Shirts, Hooded Sweatshirts, Tracksuits and Footwear.</p>
-        <p id="abouttext"> [SOMETHING ABOUT HOW INSPO OUR NAME IS]</p>
         <p id="abouttext">Having won Retail Excellence Irelands' Lifestyle Store of the Year 2017 and being nominated in the Fashion & Clothing Category 2017 by Online Retail Award and Best in Class 2017 by Customer Service Excellence Ireland and with a further 2 stores due to open soon, 
         Dundrum Town Centre, just in time for Christmas and Grafton Street, Dublin City Centre, in the first quarter of 2017, we look forward to what
         the future will bring.</p>
-        <p id="abouttext">With our online presence growing by the day 200,000+ fans combined from both Facebook and Twitter tuning in daily for news and updates and our monthly interactive competitions. [SOMETHING ABOUT EXPANDING TO EUROPE AND AMERICA]
-""")))}))
+        <p id="abouttext">With our online presence growing by the day 200,000+ fans combined from both Facebook and Twitter tuning in daily for news and updates and our monthly interactive competitions. <!--[SOMETHING ABOUT EXPANDING TO EUROPE AND AMERICA]--></p>
+
+""")))}),format.raw/*15.2*/("""
+"""))
       }
     }
   }
@@ -61,11 +64,11 @@ Seq[Any](_display_(/*1.2*/main("About")/*1.15*/{_display_(Seq[Any](format.raw/*1
 object about extends about_Scope0.about
               /*
                   -- GENERATED --
-                  DATE: Sun Nov 20 15:30:51 GMT 2016
-                  SOURCE: /home/wdd/webapps/WebCA/app/views/about.scala.html
-                  HASH: 30bae2445ac4d91fc44197e677a2b9fc70817915
-                  MATRIX: 827->1|848->14|886->15|920->23
-                  LINES: 32->1|32->1|32->1|33->2
+                  DATE: Mon Nov 21 16:31:17 GMT 2016
+                  SOURCE: /home/wdd/webapps/webca/app/views/about.scala.html
+                  HASH: c9483e04ba56a7b946d3ae9d3f1d0b2f63f4d081
+                  MATRIX: 827->1|848->14|886->15|920->23|2381->1454
+                  LINES: 32->1|32->1|32->1|33->2|46->15
                   -- GENERATED --
               */
           

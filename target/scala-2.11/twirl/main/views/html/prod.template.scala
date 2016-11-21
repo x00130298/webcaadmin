@@ -38,7 +38,7 @@ Seq[Any](_display_(/*1.2*/main("Products")/*1.18*/{_display_(Seq[Any](format.raw
                 </div>
                 <div class="col-md-10">
                     <div class="img">
-                        <img src='http://placehold.it/150x550' class="img-responsive" style="width:100%; max-height:300px;"alt="Image">
+                        <img src='http://lorempixel.com/output/technics-h-g-300-400-6.jpg' class="img-responsive" style="width:100%;"alt="Image">
                     </div>
                     <div class="Description">Buy headphones</div>
 				    <div class="price">$5,000,000</div>
@@ -55,7 +55,7 @@ Seq[Any](_display_(/*1.2*/main("Products")/*1.18*/{_display_(Seq[Any](format.raw
                 </div>
                 <div class="col-md-10">
                     <div class="img">
-                        <img src="/home/wdd/webapps/public/images/1.jpg" class="img-responsive" style="width:100%" alt="Image">
+                        <img src="http://lorempixel.com/output/technics-h-g-300-400-6.jpg" class="img-responsive" style="width:100%" alt="Image">
                     </div>
                     <div class="Description">Buy headphones</div>
 				    <div class="price">$5,000,000</div>
@@ -158,10 +158,10 @@ Seq[Any](_display_(/*1.2*/main("Products")/*1.18*/{_display_(Seq[Any](format.raw
 object prod extends prod_Scope0.prod
               /*
                   -- GENERATED --
-                  DATE: Sun Nov 20 14:22:49 GMT 2016
-                  SOURCE: /home/wdd/webapps/WebCA/app/views/prod.scala.html
-                  HASH: a471f71745fadf3fb5e9dbe8a17326a25ca87a86
-                  MATRIX: 825->1|849->17|887->18|914->19|4694->3768
+                  DATE: Mon Nov 21 16:35:15 GMT 2016
+                  SOURCE: /home/wdd/webapps/webca/app/views/prod.scala.html
+                  HASH: f4b930ecdd601a86c7266b6895342e22c65205a4
+                  MATRIX: 825->1|849->17|887->18|914->19|4722->3796
                   LINES: 32->1|32->1|32->1|33->2|140->109
                   -- GENERATED --
               */

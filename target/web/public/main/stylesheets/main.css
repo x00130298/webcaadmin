@@ -24,5 +24,15 @@
 
 .img{
     width: 220px;
+    max-width:200px;
     height: 300px;
+    max-height:300px;
+}
+
+.panel-body{
+  text-align:center;
+}
+
+header{
+  text-align:center;
 }

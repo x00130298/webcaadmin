@@ -25,9 +25,6 @@ public class HomeController extends Controller {
 	public Result contact(){
 		return ok(contact.render());
 	}
-	public Result signin(){
-		return ok(signin.render());
-	}
 	public Result signup(){
 		return ok(signup.render());
 	}

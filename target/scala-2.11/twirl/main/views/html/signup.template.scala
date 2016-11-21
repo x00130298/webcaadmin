@@ -41,7 +41,7 @@ Seq[Any](_display_(/*1.2*/main("Sign Up")/*1.17*/{_display_(Seq[Any](format.raw/
 			<input type="password" name="passwordconfirm" placeholder="Confirm Password"><br></br>
 			<input type="submit" value="Submit"><br>
 		</form>
-	<p> Already have an account?<a href="/signin">Sign In</a> </p>
+	<p> Already have an account?<a href="/account">Sign In</a> </p>
 	</div>
 </div>
 
@@ -66,10 +66,10 @@ Seq[Any](_display_(/*1.2*/main("Sign Up")/*1.17*/{_display_(Seq[Any](format.raw/
 object signup extends signup_Scope0.signup
               /*
                   -- GENERATED --
-                  DATE: Sat Nov 19 23:31:04 GMT 2016
-                  SOURCE: /home/wdd/webapps/WebCA/app/views/signup.scala.html
-                  HASH: fc6d4dcb43872c843906373aa20df2f51b7a71d2
-                  MATRIX: 829->1|852->16|890->17|918->19|1549->620
+                  DATE: Mon Nov 21 15:52:30 GMT 2016
+                  SOURCE: /home/wdd/webapps/webca/app/views/signup.scala.html
+                  HASH: 3fca688a670972dc2e2b397ffe544e447a42939f
+                  MATRIX: 829->1|852->16|890->17|918->19|1550->621
                   LINES: 32->1|32->1|32->1|34->3|48->17
                   -- GENERATED --
               */

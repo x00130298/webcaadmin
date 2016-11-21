@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/wdd/webapps/WebCA/conf/routes
-// @DATE:Sun Nov 20 01:39:34 GMT 2016
+// @SOURCE:/home/wdd/webapps/webca/conf/routes
+// @DATE:Mon Nov 21 15:54:27 GMT 2016
 
 
 package router {
