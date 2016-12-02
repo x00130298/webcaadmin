@@ -36,3 +36,7 @@
 header{
   text-align:center;
 }
+
+.container{
+  min-height:52em;
+}
