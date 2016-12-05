@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for webca#webca_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies webca#webca_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@639735a7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50a28cec[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.7 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.7] org.scala-lang#scala-library;2.11.7[0m
@@ -87,7 +87,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-server_2.11;2.5.10!play-server_2.11.pom(pom.original) (104ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-server_2.11;2.5.10!play-server_2.11.pom(pom.original) (90ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-server_2.11/2.5.10/jars/play-server_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-server_2.11;2.5.10 in public[0m
@@ -109,7 +109,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.5.10!play_2.11.pom(pom.original) (126ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.5.10!play_2.11.pom(pom.original) (134ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play_2.11/2.5.10/jars/play_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play_2.11;2.5.10 in public[0m
@@ -142,7 +142,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.5.10!play-iteratees_2.11.pom(pom.original) (87ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.5.10!play-iteratees_2.11.pom(pom.original) (126ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-iteratees_2.11/2.5.10/jars/play-iteratees_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-iteratees_2.11;2.5.10 in public[0m
@@ -213,7 +213,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.5.10/play-functional_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.5.10/play-functional_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.5.10/play-functional_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-functional_2.11;2.5.10!play-functional_2.11.pom(pom.original) (85ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-functional_2.11;2.5.10!play-functional_2.11.pom(pom.original) (84ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-functional_2.11/2.5.10/jars/play-functional_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.5.10/play-functional_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-functional_2.11;2.5.10 in public[0m
@@ -234,7 +234,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.5.10!play-datacommons_2.11.pom(pom.original) (91ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.5.10!play-datacommons_2.11.pom(pom.original) (83ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-datacommons_2.11/2.5.10/jars/play-datacommons_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-datacommons_2.11;2.5.10 in public[0m
@@ -255,7 +255,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.9.6!joda-time.pom(pom.original) (123ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.9.6!joda-time.pom(pom.original) (129ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/joda-time/joda-time/2.9.6/jars/joda-time.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar[0m
 [0m[[0mdebug[0m] [0m	found joda-time#joda-time;2.9.6 in public[0m
@@ -289,7 +289,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.7.8!jackson-core.pom(pom.original) (128ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.7.8!jackson-core.pom(pom.original) (129ms)[0m
 [0m[[0minfo[0m] [0mResolving com.fasterxml.jackson#jackson-parent;2.7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson#jackson-parent;2.7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.fasterxml.jackson#jackson-parent;2.7[0m
@@ -311,7 +311,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.7.8!jackson-annotations.pom(pom.original) (85ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.7.8!jackson-annotations.pom(pom.original) (87ms)[0m
 [0m[[0minfo[0m] [0mResolving com.fasterxml.jackson#jackson-parent;2.7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson#jackson-parent;2.7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.fasterxml.jackson#jackson-parent;2.7[0m
@@ -333,7 +333,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.7.8!jackson-databind.pom(pom.original) (132ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.7.8!jackson-databind.pom(pom.original) (124ms)[0m
 [0m[[0minfo[0m] [0mResolving com.fasterxml.jackson#jackson-parent;2.7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson#jackson-parent;2.7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.fasterxml.jackson#jackson-parent;2.7[0m
@@ -361,7 +361,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.8!jackson-datatype-jdk8.pom(pom.original) (82ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.8!jackson-datatype-jdk8.pom(pom.original) (88ms)[0m
 [0m[[0minfo[0m] [0mResolving com.fasterxml.jackson#jackson-parent;2.7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson#jackson-parent;2.7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.fasterxml.jackson#jackson-parent;2.7[0m
@@ -387,7 +387,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.8!jackson-datatype-jsr310.pom(pom.original) (124ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.8!jackson-datatype-jsr310.pom(pom.original) (125ms)[0m
 [0m[[0minfo[0m] [0mResolving com.fasterxml.jackson#jackson-parent;2.7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson#jackson-parent;2.7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.fasterxml.jackson#jackson-parent;2.7[0m
@@ -454,7 +454,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-streams_2.11;2.5.10!play-streams_2.11.pom(pom.original) (168ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-streams_2.11;2.5.10!play-streams_2.11.pom(pom.original) (122ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-streams_2.11/2.5.10/jars/play-streams_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-streams_2.11;2.5.10 in public[0m
@@ -483,7 +483,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.12!akka-stream_2.11.pom(pom.original) (93ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.12!akka-stream_2.11.pom(pom.original) (84ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.akka/akka-stream_2.11/2.4.12/jars/akka-stream_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-stream_2.11;2.4.12 in public[0m
@@ -507,7 +507,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.12!akka-actor_2.11.pom(pom.original) (84ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.12!akka-actor_2.11.pom(pom.original) (88ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.4.12/jars/akka-actor_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor_2.11;2.4.12 in public[0m
@@ -578,7 +578,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.12!akka-slf4j_2.11.pom(pom.original) (124ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.12!akka-slf4j_2.11.pom(pom.original) (84ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.akka/akka-slf4j_2.11/2.4.12/jars/akka-slf4j_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-slf4j_2.11;2.4.12 in public[0m
@@ -869,7 +869,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java_2.11;2.5.10!play-java_2.11.pom(pom.original) (122ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java_2.11;2.5.10!play-java_2.11.pom(pom.original) (132ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-java_2.11/2.5.10/jars/play-java_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-java_2.11;2.5.10 in public[0m
@@ -1059,7 +1059,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-server_2.11;2.5.10!play-netty-server_2.11.pom(pom.original) (125ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-server_2.11;2.5.10!play-netty-server_2.11.pom(pom.original) (89ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-netty-server_2.11/2.5.10/jars/play-netty-server_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-netty-server_2.11;2.5.10 in public[0m
@@ -1198,7 +1198,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-logback_2.11;2.5.10!play-logback_2.11.pom(pom.original) (83ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-logback_2.11;2.5.10!play-logback_2.11.pom(pom.original) (125ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-logback_2.11/2.5.10/jars/play-logback_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-logback_2.11;2.5.10 in public[0m
@@ -1252,7 +1252,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-jdbc_2.11;2.5.10!play-java-jdbc_2.11.pom(pom.original) (86ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-jdbc_2.11;2.5.10!play-java-jdbc_2.11.pom(pom.original) (90ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-java-jdbc_2.11/2.5.10/jars/play-java-jdbc_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-java-jdbc_2.11;2.5.10 in public[0m
@@ -1274,7 +1274,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc_2.11;2.5.10!play-jdbc_2.11.pom(pom.original) (122ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc_2.11;2.5.10!play-jdbc_2.11.pom(pom.original) (125ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-jdbc_2.11/2.5.10/jars/play-jdbc_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-jdbc_2.11;2.5.10 in public[0m
@@ -1295,7 +1295,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-api_2.11;2.5.10!play-jdbc-api_2.11.pom(pom.original) (100ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-api_2.11;2.5.10!play-jdbc-api_2.11.pom(pom.original) (85ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-jdbc-api_2.11/2.5.10/jars/play-jdbc-api_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-jdbc-api_2.11;2.5.10 in public[0m
@@ -1404,7 +1404,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-cache_2.11;2.5.10!play-cache_2.11.pom(pom.original) (87ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-cache_2.11;2.5.10!play-cache_2.11.pom(pom.original) (124ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-cache_2.11/2.5.10/jars/play-cache_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-cache_2.11;2.5.10 in public[0m
@@ -1450,7 +1450,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-ws_2.11;2.5.10!play-java-ws_2.11.pom(pom.original) (126ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-ws_2.11;2.5.10!play-java-ws_2.11.pom(pom.original) (132ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-java-ws_2.11/2.5.10/jars/play-java-ws_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-java-ws_2.11;2.5.10 in public[0m
@@ -1474,7 +1474,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-ws_2.11;2.5.10!play-ws_2.11.pom(pom.original) (136ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-ws_2.11;2.5.10!play-ws_2.11.pom(pom.original) (127ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-ws_2.11/2.5.10/jars/play-ws_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-ws_2.11;2.5.10 in public[0m
@@ -3507,7 +3507,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-test_2.11;2.5.10!play-test_2.11.pom(pom.original) (133ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-test_2.11;2.5.10!play-test_2.11.pom(pom.original) (125ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-test_2.11/2.5.10/jars/play-test_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-test_2.11;2.5.10 in public[0m
@@ -7100,7 +7100,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.10!play-omnidoc_2.11.pom(pom.original) (84ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.10!play-omnidoc_2.11.pom(pom.original) (85ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-omnidoc_2.11/2.5.10/jars/play-omnidoc_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-omnidoc_2.11;2.5.10 in public[0m
@@ -7122,7 +7122,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.10!play-docs_2.11.pom(pom.original) (85ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.10!play-docs_2.11.pom(pom.original) (88ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-docs_2.11/2.5.10/jars/play-docs_2.11.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-docs_2.11;2.5.10 in public[0m
@@ -7792,43 +7792,43 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-server_2.11/2.5.10/play-server_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-server_2.11;2.5.10!play-server_2.11.jar (165ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-server_2.11;2.5.10!play-server_2.11.jar (350ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java_2.11/2.5.10/play-java_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java_2.11;2.5.10!play-java_2.11.jar (149ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java_2.11;2.5.10!play-java_2.11.jar (130ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/2.5.10/play-netty-server_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-server_2.11;2.5.10!play-netty-server_2.11.jar (147ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-server_2.11;2.5.10!play-netty-server_2.11.jar (146ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-logback_2.11/2.5.10/play-logback_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-logback_2.11;2.5.10!play-logback_2.11.jar (131ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-logback_2.11;2.5.10!play-logback_2.11.jar (125ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java-jdbc_2.11/2.5.10/play-java-jdbc_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-jdbc_2.11;2.5.10!play-java-jdbc_2.11.jar (136ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-jdbc_2.11;2.5.10!play-java-jdbc_2.11.jar (125ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-cache_2.11/2.5.10/play-cache_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-cache_2.11;2.5.10!play-cache_2.11.jar (184ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-cache_2.11;2.5.10!play-cache_2.11.jar (126ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-java-ws_2.11/2.5.10/play-java-ws_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-ws_2.11;2.5.10!play-java-ws_2.11.jar (125ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-java-ws_2.11;2.5.10!play-java-ws_2.11.jar (124ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.jar[0m
@@ -7836,32 +7836,32 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.5.10/play_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.5.10!play_2.11.jar (829ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.5.10!play_2.11.jar (751ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.5.10/play-iteratees_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.5.10!play-iteratees_2.11.jar (276ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.5.10!play-iteratees_2.11.jar (207ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#build-link;2.5.10!build-link.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.5.10/play-json_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.5.10/play-json_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.5.10/play-json_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.5.10/play-json_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.5.10/play-json_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-json_2.11;2.5.10!play-json_2.11.jar (255ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-json_2.11;2.5.10!play-json_2.11.jar (215ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-netty-utils/2.5.10/play-netty-utils-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-utils/2.5.10/play-netty-utils-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-utils/2.5.10/play-netty-utils-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-netty-utils/2.5.10/play-netty-utils-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-netty-utils/2.5.10/play-netty-utils-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-utils;2.5.10!play-netty-utils.jar (127ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-netty-utils;2.5.10!play-netty-utils.jar (134ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-streams_2.11/2.5.10/play-streams_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-streams_2.11;2.5.10!play-streams_2.11.jar (194ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-streams_2.11;2.5.10!play-streams_2.11.jar (129ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.21!slf4j-api.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.21!jul-to-slf4j.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.21!jcl-over-slf4j.jar[0m
@@ -7870,43 +7870,43 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.12/akka-actor_2.11-2.4.12.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.12!akka-actor_2.11.jar (652ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.12!akka-actor_2.11.jar (674ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.12/akka-slf4j_2.11-2.4.12.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.12!akka-slf4j_2.11.jar (167ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.12!akka-slf4j_2.11.jar (122ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.8/jackson-core-2.7.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.7.8!jackson-core.jar(bundle) (160ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.7.8!jackson-core.jar(bundle) (158ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.8/jackson-annotations-2.7.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.7.8!jackson-annotations.jar(bundle) (163ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.7.8!jackson-annotations.jar(bundle) (131ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.8/jackson-databind-2.7.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.7.8!jackson-databind.jar(bundle) (311ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.7.8!jackson-databind.jar(bundle) (306ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.7.8/jackson-datatype-jdk8-2.7.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.8!jackson-datatype-jdk8.jar(bundle) (133ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.8!jackson-datatype-jdk8.jar(bundle) (128ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.7.8/jackson-datatype-jsr310-2.7.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.8!jackson-datatype-jsr310.jar(bundle) (138ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.8!jackson-datatype-jsr310.jar(bundle) (133ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] commons-codec#commons-codec;1.10!commons-codec.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar[0m
@@ -7914,7 +7914,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.9.6!joda-time.jar (185ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.9.6!joda-time.jar (186ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.joda#joda-convert;1.8.1!joda-convert.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] xerces#xercesImpl;2.11.0!xercesImpl.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar[0m
@@ -7936,14 +7936,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.5.10/play-datacommons_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.5.10!play-datacommons_2.11.jar (127ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.5.10!play-datacommons_2.11.jar (130ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.12/akka-stream_2.11-2.4.12.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.12!akka-stream_2.11.jar (805ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.12!akka-stream_2.11.jar (804ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#ssl-config-core_2.11;0.2.1!ssl-config-core_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar[0m
@@ -7979,13 +7979,13 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc_2.11/2.5.10/play-jdbc_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc_2.11;2.5.10!play-jdbc_2.11.jar (133ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc_2.11;2.5.10!play-jdbc_2.11.jar (94ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.11/2.5.10/play-jdbc-api_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-api_2.11;2.5.10!play-jdbc-api_2.11.jar (129ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-api_2.11;2.5.10!play-jdbc-api_2.11.jar (128ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.zaxxer#HikariCP;2.5.1!HikariCP.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.googlecode.usc#jdbcdslog;1.0.6.2!jdbcdslog.jar[0m
@@ -7997,7 +7997,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.11/2.5.10/play-ws_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-ws_2.11;2.5.10!play-ws_2.11.jar (222ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-ws_2.11;2.5.10!play-ws_2.11.jar (210ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.asynchttpclient#async-http-client;2.0.11!async-http-client.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] oauth.signpost#signpost-core;1.2.1.2!signpost-core.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] oauth.signpost#signpost-commonshttp4;1.2.1.2!signpost-commonshttp4.jar[0m
@@ -8013,7 +8013,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-test_2.11/2.5.10/play-test_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-test_2.11;2.5.10!play-test_2.11.jar (131ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-test_2.11;2.5.10!play-test_2.11.jar (105ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] junit#junit;4.12!junit.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.novocode#junit-interface;0.11!junit-interface.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit;2.20!htmlunit.jar[0m
@@ -8059,13 +8059,13 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.10/play-omnidoc_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.10!play-omnidoc_2.11.jar (2125ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.10!play-omnidoc_2.11.jar (2017ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.10/play-docs_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.10!play-docs_2.11.jar (2230ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.10!play-docs_2.11.jar (1910ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.pegdown#pegdown;1.4.0!pegdown.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(bundle)[0m
@@ -8077,7 +8077,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 6597ms :: artifacts dl 11089ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 6452ms :: artifacts dl 10356ms[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT compile produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT runtime produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT test produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-test.xml[0m
@@ -8091,5 +8091,5 @@
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT docs produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT pom produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT scala-tool produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (6597ms resolve - 11089ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (6452ms resolve - 10356ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

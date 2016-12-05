@@ -20,7 +20,7 @@
 [0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/ivys/ivy.xml.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-plugin;2.5.10!ivy.xml(ivy.original) (1527ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-plugin;2.5.10!ivy.xml(ivy.original) (1460ms)[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#sbt-plugin;2.5.10 in sbt-plugin-releases[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.5.10->com.typesafe.play#sbt-routes-compiler_2.10;2.5.10 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.play#sbt-routes-compiler_2.10;2.5.10 ...[0m
@@ -42,7 +42,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-routes-compiler_2.10;2.5.10!sbt-routes-compiler_2.10.pom(pom.original) (97ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-routes-compiler_2.10;2.5.10!sbt-routes-compiler_2.10.pom(pom.original) (87ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/sbt-routes-compiler_2.10/2.5.10/jars/sbt-routes-compiler_2.10.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/sbt-routes-compiler_2.10/2.5.10/jars/sbt-routes-compiler_2.10.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-routes-compiler_2.10/2.5.10/jars/sbt-routes-compiler_2.10.jar[0m
@@ -161,7 +161,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#build-link;2.5.10!build-link.pom(pom.original) (84ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#build-link;2.5.10!build-link.pom(pom.original) (93ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/build-link/2.5.10/jars/build-link.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/build-link/2.5.10/jars/build-link.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/build-link/2.5.10/jars/build-link.jar[0m
@@ -190,7 +190,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.5.10/play-exceptions-2.5.10.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.5.10/play-exceptions-2.5.10.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.5.10/play-exceptions-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-exceptions;2.5.10!play-exceptions.pom(pom.original) (90ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-exceptions;2.5.10!play-exceptions.pom(pom.original) (91ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/play-exceptions/2.5.10/jars/play-exceptions.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.play/play-exceptions/2.5.10/jars/play-exceptions.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/play-exceptions/2.5.10/jars/play-exceptions.jar[0m
@@ -13682,7 +13682,7 @@
 [0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/jars/sbt-plugin.jar[0m
 [0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/jars/sbt-plugin.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.10/jars/sbt-plugin.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-plugin;2.5.10!sbt-plugin.jar (2163ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-plugin;2.5.10!sbt-plugin.jar (2186ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbt#sbt-coffeescript;1.0.0!sbt-coffeescript.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbt#sbt-less;1.1.0!sbt-less.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbt#sbt-jshint;1.0.4!sbt-jshint.jar[0m
@@ -13696,13 +13696,13 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/sbt-routes-compiler_2.10/2.5.10/sbt-routes-compiler_2.10-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-routes-compiler_2.10;2.5.10!sbt-routes-compiler_2.10.jar (398ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-routes-compiler_2.10;2.5.10!sbt-routes-compiler_2.10.jar (394ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/sbt-run-support_2.10/2.5.10/sbt-run-support_2.10-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-run-support_2.10/2.5.10/sbt-run-support_2.10-2.5.10.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-run-support_2.10/2.5.10/sbt-run-support_2.10-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/sbt-run-support_2.10/2.5.10/sbt-run-support_2.10-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/sbt-run-support_2.10/2.5.10/sbt-run-support_2.10-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-run-support_2.10;2.5.10!sbt-run-support_2.10.jar (181ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#sbt-run-support_2.10;2.5.10!sbt-run-support_2.10.jar (131ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbt#sbt-twirl;1.1.1!sbt-twirl.jar[0m
@@ -13717,7 +13717,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/build-link/2.5.10/build-link-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#build-link;2.5.10!build-link.jar (125ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#build-link;2.5.10!build-link.jar (119ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#twirl-compiler_2.10;1.1.1!twirl-compiler_2.10.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.5.10/play-exceptions-2.5.10.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.5.10/play-exceptions-2.5.10.jar ...[0m
@@ -13874,7 +13874,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.11!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 13216ms :: artifacts dl 3221ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 12674ms :: artifacts dl 3151ms[0m
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT compile produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT runtime produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT test produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-test.xml[0m
@@ -13888,5 +13888,5 @@
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT docs produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT pom produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#webca-build;0.1-SNAPSHOT scala-tool produced in /home/wdd/webapps/webca/project/target/resolution-cache/reports/default-webca-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (13216ms resolve - 3221ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (12674ms resolve - 3151ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
