@@ -40,7 +40,7 @@ public class HomeController extends Controller {
 	public Result prod(){
 
 		List<Product> productsList = Product.findAll();
-		return ok(prod.render(/*productsList*/));
+		return ok(prod.render(productsList));
 	}
 	public Result cart(){
 		return ok(cart.render());
@@ -51,4 +51,5 @@ public class HomeController extends Controller {
 	public Result checkout(){
 		return ok(checkout.render());
 	}
+	public Result addProduct() {return ok(addProduct.render());}
 }

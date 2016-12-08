@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for webca#webca_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies webca#webca_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38618813[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a5ef96[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.7 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.7] org.scala-lang#scala-library;2.11.7[0m
@@ -1236,21 +1236,8 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies webca#webca_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 {compile=[default(compile)]}[0m
-[0m[[0minfo[0m] [0mResolving com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 {compile=[default(compile)]}[0m
-[0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-jdbc-evolutions_2.11/2.5.10/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	local: no ivy file found for com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10[0m
-[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	public: found md file for com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10[0m
-[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom (2.5.10)[0m
-[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom ...[0m
-[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10!play-jdbc-evolutions_2.11.pom(pom.original) (151ms)[0m
-[0m[[0mdebug[0m] [0m		tried /home/wdd/.ivy2/local/com.typesafe.play/play-jdbc-evolutions_2.11/2.5.10/jars/play-jdbc-evolutions_2.11.jar[0m
-[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar[0m
-[0m[[0mdebug[0m] [0m	found com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 in public[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies webca#webca_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies webca#webca_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10->org.scala-lang#scala-library;2.11.7 [compile->master(compile)][0m
@@ -8202,12 +8189,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-netty-server_2.11;2.5.10!play-netty-server_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-logback_2.11;2.5.10!play-logback_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-java-jdbc_2.11;2.5.10!play-java-jdbc_2.11.jar[0m
-[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar ...[0m
-[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar[0m
-[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-jdbc-evolutions_2.11/2.5.10/play-jdbc-evolutions_2.11-2.5.10.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10!play-jdbc-evolutions_2.11.jar (407ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-jdbc-evolutions_2.11;2.5.10!play-jdbc-evolutions_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-cache_2.11;2.5.10!play-cache_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.play#play-java-ws_2.11;2.5.10!play-java-ws_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar[0m
@@ -8357,7 +8339,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4055ms :: artifacts dl 681ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4744ms :: artifacts dl 67ms[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT compile produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT runtime produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT test produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-test.xml[0m
@@ -8371,5 +8353,5 @@
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT docs produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT pom produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for webca#webca_2.11;1.0-SNAPSHOT scala-tool produced in /home/wdd/webapps/webca/target/resolution-cache/reports/webca-webca_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (4055ms resolve - 681ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (4744ms resolve - 67ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

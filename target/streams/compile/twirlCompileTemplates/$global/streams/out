@@ -1,4 +1,0 @@
-[0m[[31merror[0m] [0m/home/wdd/webapps/WebCA/app/views/contact.scala.html:57: Expected '}' but found '@'[0m
-[0m[[31merror[0m] [0m<h4 class="contacthead">Is it urgent? Contact us directly:</br> Phone: 01-4578964 </br> Email: info@[BRANDNAME].ie</h4>[0m
-[0m[[31merror[0m] [0m                                                                                                   ^[0m
-[0m[[31merror[0m] [0m(compile:[31mtwirlCompileTemplates[0m) Twirl compilation failed[0m
