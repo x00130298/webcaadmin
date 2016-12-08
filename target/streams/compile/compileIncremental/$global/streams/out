@@ -1,38 +1,15 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/wdd/webapps/webca/app/Models/Product.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/wdd/webapps/webca/app/Models/Product.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/wdd/webapps/webca/app/Models/Product.java)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Java source to /home/wdd/webapps/webca/target/scala-2.11/classes...[0m
-[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@5202d351 directly...[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: illegal start of expression[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: ')' expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: illegal start of expression[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: ';' expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: not a statement[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: ';' expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: <identifier> expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: not a statement[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: ';' expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m/home/wdd/webapps/webca/app/Models/Product.java:12: ';' expected[0m
-[0m[[31merror[0m] [0m        public Product(Long id, String name, String description, int stock, double price)[0m
-[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
