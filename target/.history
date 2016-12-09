@@ -25,3 +25,10 @@ compile
 run
 h2-browser
 run
+H2-BROWSER
+H2-browser
+h2-browser
+exit
+run
+h2-browser
+run

@@ -95,3 +95,6 @@ org.h2.message.DbException: The connection was not closed by the application and
 Caused by: org.h2.jdbc.JdbcSQLException: The connection was not closed by the application and is garbage collected [90018-192]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
 	... 89 more
+2016-12-09 13:49:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+select * from users [42102-192]

@@ -11,7 +11,13 @@ GET 	/prod				controllers.HomeController.prod
 GET	    /cart				controllers.HomeController.cart
 GET	    /account			controllers.HomeController.account
 GET	    /checkout			controllers.HomeController.checkout
-GET     /addProduct        controllers.HomeController.addProduct
+GET     /addProduct         controllers.HomeController.addProduct
+
+
+
+#loginRoutes
+GET     /login              controllers.LoginController.login
+POST    /loginSubmit        controllers.LoginController.loginSubmit
 
 # An example controller showing how to use dependency injection
 GET     /count                      controllers.CountController.count
@@ -22,3 +28,4 @@ GET     /message                    controllers.AsyncController.message
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
 
 GET /public/base.css		controllers.Assets.at(path="/public", base)
+

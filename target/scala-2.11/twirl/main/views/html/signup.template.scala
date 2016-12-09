@@ -66,8 +66,8 @@ Seq[Any](_display_(/*1.2*/main("Sign Up")/*1.17*/{_display_(Seq[Any](format.raw/
 object signup extends signup_Scope0.signup
               /*
                   -- GENERATED --
-                  DATE: Thu Dec 08 15:53:44 GMT 2016
-                  SOURCE: /home/wdd/webapps/webca/app/views/signup.scala.html
+                  DATE: Fri Dec 09 13:09:29 GMT 2016
+                  SOURCE: /home/wdd/webapps/webcaadmin/app/views/signup.scala.html
                   HASH: 3fca688a670972dc2e2b397ffe544e447a42939f
                   MATRIX: 829->1|852->16|890->17|918->19|1550->621
                   LINES: 32->1|32->1|32->1|34->3|48->17
