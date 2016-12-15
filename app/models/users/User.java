@@ -42,7 +42,6 @@ public class User extends Model {
     public String getEmail() {
         return email;
     }
-
     public void setEmail(String email) {
         this.email = email;
     }
@@ -50,7 +49,6 @@ public class User extends Model {
     public String getRole() {
         return role;
     }
-
     public void setRole(String role) {
         this.role = role;
     }
@@ -58,7 +56,6 @@ public class User extends Model {
     public String getPassword() {
         return password;
     }
-
     public void setPassword(String password) {
         this.password = password;
     }
@@ -66,10 +63,18 @@ public class User extends Model {
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
+
+
+    public static User getUserById(String id){
+        if (id == null)
+            return null;
+        else
+            return find.byId(id);
+    }
+
 
 
 }
